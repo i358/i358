@@ -1,7 +1,7 @@
 
-<h2 align="left">Merhaba, ben 358 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align="left">There's nothing to worth see<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
   <img src="https://lanyard-profile-readme.vercel.app/api/852854758641631232?theme=dark&animated=true&hideDiscrim=false&borderRadius=20px">
-<h3>Kişisel Hesaplarım</h3>
+<h3>Kişisel Hesaplarım (Artık hiçbiri yok)</h3>
 <p align="left">
    <a href="https://discord.com/users/852854758641631232" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/k39nb87sqnfhn5004w9o78pqu?si=98c100572f0341be" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
@@ -11,7 +11,7 @@
 </p>
 <h3>Hakkımda.</h3>
 <ul>
-  <li>💻 Sadece bir uzaylıyım, taze sıkılmış uzay suyu ister misin ? </li>
+  <li>Burada okuduğun her şey, hiçbir şey anlam ifade etmemekte, bayım.</li>
 
 </ul>
 
