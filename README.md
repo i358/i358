@@ -1,5 +1,5 @@
 
-<h2 align="left">There's nothing to worth see<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<h2 align="left">There's nothing to see<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
   <img src="https://lanyard-profile-readme.vercel.app/api/852854758641631232?theme=dark&animated=true&hideDiscrim=false&borderRadius=20px">
 <h3>Kişisel Hesaplarım (Artık hiçbiri yok)</h3>
 <p align="left">
