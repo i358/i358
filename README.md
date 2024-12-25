@@ -2,7 +2,8 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/947380920619532339)](https://discord.com/users/947380920619532339)          
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i358&show_icons=true&theme=dracula)
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=i358&show_icons=true&theme=dracula" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=i358&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 
 
 ###  🛠 Languages and Tools
