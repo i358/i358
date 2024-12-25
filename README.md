@@ -1,6 +1,8 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=i358)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/947380920619532339)](https://discord.com/users/947380920619532339)
+[![Discord Presence](https://lanyard.cnrad.dev/api/947380920619532339)](https://discord.com/users/947380920619532339)          
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i358&show_icons=true&theme=dracula)
 
 
 ###  🛠 Languages and Tools
